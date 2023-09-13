@@ -1,0 +1,15 @@
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.Queue/bin/Debug/net7.0/TrainingTasks.Queue
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.Queue/bin/Debug/net7.0/TrainingTasks.Queue.deps.json
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.Queue/bin/Debug/net7.0/TrainingTasks.Queue.runtimeconfig.json
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.Queue/bin/Debug/net7.0/TrainingTasks.Queue.dll
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.Queue/bin/Debug/net7.0/TrainingTasks.Queue.pdb
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.Queue/obj/Debug/net7.0/TrainingTasks.Queue.csproj.AssemblyReference.cache
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.Queue/obj/Debug/net7.0/TrainingTasks.Queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.Queue/obj/Debug/net7.0/TrainingTasks.Queue.AssemblyInfoInputs.cache
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.Queue/obj/Debug/net7.0/TrainingTasks.Queue.AssemblyInfo.cs
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.Queue/obj/Debug/net7.0/TrainingTasks.Queue.csproj.CoreCompileInputs.cache
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.Queue/obj/Debug/net7.0/TrainingTasks.Queue.dll
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.Queue/obj/Debug/net7.0/refint/TrainingTasks.Queue.dll
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.Queue/obj/Debug/net7.0/TrainingTasks.Queue.pdb
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.Queue/obj/Debug/net7.0/TrainingTasks.Queue.genruntimeconfig.cache
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.Queue/obj/Debug/net7.0/ref/TrainingTasks.Queue.dll

@@ -1,0 +1,15 @@
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseString/bin/Debug/net7.0/TrainingTasks.ReverseString
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseString/bin/Debug/net7.0/TrainingTasks.ReverseString.deps.json
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseString/bin/Debug/net7.0/TrainingTasks.ReverseString.runtimeconfig.json
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseString/bin/Debug/net7.0/TrainingTasks.ReverseString.dll
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseString/bin/Debug/net7.0/TrainingTasks.ReverseString.pdb
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseString/obj/Debug/net7.0/TrainingTasks.ReverseString.csproj.AssemblyReference.cache
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseString/obj/Debug/net7.0/TrainingTasks.ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseString/obj/Debug/net7.0/TrainingTasks.ReverseString.AssemblyInfoInputs.cache
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseString/obj/Debug/net7.0/TrainingTasks.ReverseString.AssemblyInfo.cs
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseString/obj/Debug/net7.0/TrainingTasks.ReverseString.csproj.CoreCompileInputs.cache
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseString/obj/Debug/net7.0/TrainingTasks.ReverseString.dll
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseString/obj/Debug/net7.0/refint/TrainingTasks.ReverseString.dll
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseString/obj/Debug/net7.0/TrainingTasks.ReverseString.pdb
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseString/obj/Debug/net7.0/TrainingTasks.ReverseString.genruntimeconfig.cache
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseString/obj/Debug/net7.0/ref/TrainingTasks.ReverseString.dll

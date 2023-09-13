@@ -1,0 +1,15 @@
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseCollection/bin/Debug/net7.0/TrainingTasks.ReverseCollection
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseCollection/bin/Debug/net7.0/TrainingTasks.ReverseCollection.deps.json
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseCollection/bin/Debug/net7.0/TrainingTasks.ReverseCollection.runtimeconfig.json
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseCollection/bin/Debug/net7.0/TrainingTasks.ReverseCollection.dll
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseCollection/bin/Debug/net7.0/TrainingTasks.ReverseCollection.pdb
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseCollection/obj/Debug/net7.0/TrainingTasks.ReverseCollection.csproj.AssemblyReference.cache
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseCollection/obj/Debug/net7.0/TrainingTasks.ReverseCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseCollection/obj/Debug/net7.0/TrainingTasks.ReverseCollection.AssemblyInfoInputs.cache
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseCollection/obj/Debug/net7.0/TrainingTasks.ReverseCollection.AssemblyInfo.cs
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseCollection/obj/Debug/net7.0/TrainingTasks.ReverseCollection.csproj.CoreCompileInputs.cache
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseCollection/obj/Debug/net7.0/TrainingTasks.ReverseCollection.dll
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseCollection/obj/Debug/net7.0/refint/TrainingTasks.ReverseCollection.dll
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseCollection/obj/Debug/net7.0/TrainingTasks.ReverseCollection.pdb
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseCollection/obj/Debug/net7.0/TrainingTasks.ReverseCollection.genruntimeconfig.cache
+/Users/alex/RiderProjects/TrainingTasks/TrainingTasks.ReverseCollection/obj/Debug/net7.0/ref/TrainingTasks.ReverseCollection.dll
